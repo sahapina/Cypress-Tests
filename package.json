@@ -1,0 +1,7 @@
+{
+  "name": "Automation Test",
+  "version": "1.0.0",
+  "dependencies": {
+    "cypress": "^13.14.2"
+  }
+}
