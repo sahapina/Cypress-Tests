@@ -25,5 +25,10 @@ This guide will help you set up and execute Cypress tests for your web applicati
      ```
    - This command will execute the `login.cy.js` test in headless mode.
 
+   - - To run the test in the terminal with opening the Cypress UI, run:
+     ```
+     npx cypress open
+     ```
+
 ### 5. **View Test Results**
    - Upon running the tests, the results will be shown in the terminal.
